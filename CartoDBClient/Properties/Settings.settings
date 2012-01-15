@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CartoDBClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YOUR_CARTODB_USERNAME</Value>
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YOUR_CARTODB_PASSWORD</Value>
+    </Setting>
+    <Setting Name="consumerKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YOUR_OAUTH_KEY</Value>
+    </Setting>
+    <Setting Name="consumerSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YOUR_OAUTH_SECRET</Value>
+    </Setting>
+    <Setting Name="domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">YOUR_CARTODB_DOMAIN</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

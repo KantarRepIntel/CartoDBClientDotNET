@@ -1,0 +1,5 @@
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClient\bin\Debug\CartoDBClient.dll
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClient\bin\Debug\CartoDBClient.pdb
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClient\obj\Debug\CartoDBClient.dll
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClient\obj\Debug\CartoDBClient.pdb
