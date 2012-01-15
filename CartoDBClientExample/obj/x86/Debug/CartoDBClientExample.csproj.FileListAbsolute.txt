@@ -1,0 +1,22 @@
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\ConsoleApplication1\bin\Debug\CartoDBClient.dll
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\ConsoleApplication1\bin\Debug\CartoDBClient.pdb
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\bin\Debug\ConsoleApplication1.exe.config
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\bin\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\bin\Debug\ConsoleApplication1.pdb
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\bin\Debug\CartoDBClient.dll
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\bin\Debug\CartoDBClient.pdb
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\user28\Mis documentos\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\bin\Debug\ConsoleApplication1.exe.config
+C:\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\obj\x86\Debug\ConsoleApplication1.exe
+C:\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Genis\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Genis\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Genis\Dropbox\ProjectesTDR\CartoDBClient\CartoDBClientExample\obj\x86\Debug\ConsoleApplication1.pdb
