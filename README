@@ -1,1 +1,10 @@
-Hello World!
+CartoDBClientDotNet is a simple way to access to CartoDB in .NET. There are two projects.
+
+CartoDBClient is the main project where you only have to update property settings in Properties/Settings.settings at CartoDBClient Project with access values gived by CartoDB:
+mail: username to access CartoDB
+pass: password to access CartoDB
+consumerKey: consumer key in "Your api keys"
+consumerSecret: consumer secret in "Your api keys"
+domain: your subdomain in cartodb.com: http://yoursubdomain.cartodb.com
+
+CartoDBClientExample where you can find the example code to run a query.
